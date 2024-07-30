@@ -2,7 +2,7 @@ import React from "react";
 import banner from "../../public/Banner.png"
 
 const Cards = ( {item} ) => {
-  console.log(item);
+
    
   return (
     <>
